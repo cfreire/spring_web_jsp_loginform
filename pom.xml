@@ -11,7 +11,7 @@
 	<groupId>com.vantagem</groupId>
 	<artifactId>spring_web_jsp_loginform</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_web_jsp_validanif</name>
+	<name>spring_web_jsp_loginform</name>
 	<description>NIF validator with spring boot and jsp</description>
 
 	<properties>
